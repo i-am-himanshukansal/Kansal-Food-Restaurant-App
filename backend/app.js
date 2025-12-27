@@ -1,3 +1,4 @@
+//This app is awesome
 import express from "express";
 import cors from "cors";
 import reservationRouter from "./routes/reservationRoute.js";
