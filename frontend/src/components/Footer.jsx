@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-          <div className="left"><b>HIMASHU KANSAL</b></div>
+          <div className="left"><b>HIMANSHU KANSAL</b></div>
           <div className="right">
             <p>Ghaziabad(NCR), UP, India</p>
             <p>Open: 24x7</p>
