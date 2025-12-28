@@ -19,7 +19,7 @@ const Reservation = () => {
 
     try {
       const { data } = await axios.post(
-        "http://localhost:4000/api/v1/reservation/send",
+        `${import.meta.env.VITE_BACKEND_URL}/api/v1/reservation/send`,
         {
           firstName,
           lastName,
