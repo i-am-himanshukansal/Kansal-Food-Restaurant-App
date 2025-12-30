@@ -13,7 +13,7 @@ const About = () => {
           </div>
 
           <p className="mid">
-            At Kansal Food Zone, we believe that great food brings people together.
+            At Kansal Restaurant Web-App, we believe that great food brings people together.
             Our passion lies in crafting delicious dishes using fresh ingredients,
             authentic recipes, and a perfect blend of traditional and modern flavors.
           </p>
